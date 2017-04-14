@@ -1,0 +1,11 @@
+What happens when you initialize a repository? 
+
+Lesson2: Answer to first question.
+
+Why do you need to do it?
+
+Lesson2: Answer to second question.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Lesson3: Answer to third question.
